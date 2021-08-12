@@ -98,12 +98,11 @@ body {
 
 #box1{
   width: 303px;
-  margin-left: -5%;
 }
 
 #box2{
   width: 282px;
-  margin-left: 5%;
+
 }
 #img2{
   height: 280px;
@@ -802,6 +801,9 @@ a {
   padding-top: 2rem;
   padding-bottom: 0rem;
   background-color: #ffffff;
+}
+.cid-sCc6y1G6EO .gallary-container{
+  display: flex;
 }
 .cid-sCc6y1G6EO img,
 .cid-sCc6y1G6EO .item-img {
