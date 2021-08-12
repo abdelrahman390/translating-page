@@ -487,6 +487,97 @@ nav .mbr-section-btn {
     padding-top: 20px;
     display: block;
   }
+  .cid-sCc6y1G6EO .gallary-container{
+    display: block !important;
+    margin-bottom: 50px;
+  }
+  #Features-card {
+    position: relative;
+    width: 320px;
+    height: 350px;
+    border-radius: 15px;
+    margin: auto;
+  }
+  #Features-box{
+    position: relative;
+    right: 0px;
+    bottom: -40px;
+    background: #ffffff;
+    box-shadow: 0 7px 11px rgb(0 0 0 / 73%);
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Translation-services .sirvices-container{
+  display: block;
+}
+.Translation-services{
+  height: 950px;
+}
+#sectionimage{
+  width: 100%;
+  height: 240px;
+}
+#boxsection1{
+  padding-left: 25px;
+  padding-bottom: 30px;
+  padding-top: 30px;
+  }
+#boxsection2{
+  padding-left: 25px;
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+#sectionh4{
+  width: 100%;
+  font-size: 25px!important;
+  font-family: arial;
+  margin-top: 15px;
+}
+
+#sectionp{
+  width: 100%;
+  font-size: 17px;
+  line-height: 26px;
+  font-family: arial;
+}
+
+#CHOOSEUS{
+  font-size: 30px;
+}
+#why{
+  height: 900px;
+}
+#why .services .container{
+  display: block;
+  justify-content: center;
+  align-items: center;
+}
+#box1{
+  width: 90% !important;
+  transform: revert;
+  position: revert;
+  margin: auto;
+  margin-bottom: 50px;
+}
+#box2{
+
+  width: 90% !important;
+  transform: revert;
+  margin: auto;
+  position: revert;
+
+}
+
+#map{
+  width: 90% !important;
+}
+#copy{
+  font-size: 10px;
+}
+
+
   h1::after{
     width: 270px;
   }
