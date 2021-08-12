@@ -508,6 +508,8 @@ nav .mbr-section-btn {
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 300px !important;
+    margin: auto;
 }
 .Translation-services .sirvices-container{
   display: block;
@@ -557,18 +559,27 @@ nav .mbr-section-btn {
 #box1{
   width: 90% !important;
   transform: revert;
-  position: revert;
+  position: sticky;
   margin: auto;
   margin-bottom: 50px;
 }
 #box2{
-
-  width: 90% !important;
+  display: block;
+  position: sticky;
+  top: 485px;
+  /* left: 53%; */
   transform: revert;
+  width: 90% !important;
+  height: 320px;
+  box-sizing: border-box;
+  padding: 15px;
+  transition: .5s;
+  background-color: #332828;
   margin: auto;
-  position: revert;
-
 }
+
+
+
 
 #map{
   width: 90% !important;
@@ -586,6 +597,9 @@ nav .mbr-section-btn {
     right: 0;
     text-align: center;
   }
+
+
+
 }
 /*Gradients animation*/
 @keyframes gradient-animation {
