@@ -121,6 +121,26 @@ body {
   font-size: 35px;
 }
 
+.cid-sCc6y1G6EO .gallary-container{
+  display: block !important;
+  margin-top: 30px;
+}
+.cid-sCc6y1G6EO .item-wrapper{
+  width: 470px !important;
+}
+#Features-card{
+  width: 470px;
+  margin: auto;
+  height: 385px;
+}
+#Features-box{
+  width: 470px;
+  position: revert;
+}
+.cid-sCc6y1G6EO .item-wrapper{
+  width: 470px;
+}
+
 
 
 
