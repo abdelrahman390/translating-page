@@ -131,6 +131,7 @@
       background: none; }
 
 @media (max-width: 767px) {
+  
   .nav-dropdown.navbar-toggleable-sm {
     bottom: 0;
     display: none;
