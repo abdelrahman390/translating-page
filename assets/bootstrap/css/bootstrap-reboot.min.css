@@ -111,25 +111,7 @@ h1::after{
     transition: .5s;
     background-color: #332828;
 }
-.box1 h2{
-    margin: 0;
-    padding: 0;
-    color: #ff4d73;
-    font-size: 35px;
-    font-weight: 100;
-    transition: .5s;
-    text-align: center;
-}
-.box1 p{
-    margin: 0;
-    padding: 0;
-    margin-top: 20px;
-    color: #ff4d73;
-    font-size: 19px;
-    text-align: center;
-    transition-delay: .5s;
-    transition: .5s;
-}
+
 .box1:before{
     content: '';
     position: absolute;
@@ -186,7 +168,7 @@ h1::after{
     transition: .5s;
     background-color: #332828;
 }
-.box2 h2{
+.box2 h2, box1 h2{
     margin: 0;
     padding: 0;
     color: #ff4d73;
@@ -194,15 +176,17 @@ h1::after{
     transition: .5s;
     text-align: center;
 }
-.box2 p{
+.box2 p , box1 p{
     margin: 0;
     padding: 0;
     margin-top: 20px;
-    color: #ff4d73;;
+    color: #ff4d73;
     font-size: 19px;
+    font-weight: 300;
     text-align: center;
     transition-delay: .5s;
     transition: .5s;
+    line-height: 25px;
 }
 .box2:before{
     content: '';
