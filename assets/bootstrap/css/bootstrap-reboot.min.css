@@ -32,6 +32,7 @@
     transition: .4s linear;
     top: 340px;
     position: relative;
+    color: #e43f3f;
 }
 #socialicon a:hover{
     transform: scale(.8);
