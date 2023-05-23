@@ -1521,6 +1521,13 @@ nav .mbr-section-btn {
   }
 }
 @media (max-width: 500px) {
+	
+    #p {
+    color: aliceblue;
+    margin-left: 0px;
+    font-size: 18px;
+    line-height: 40px;
+}
   #translating{
     color: #e43f3f;
     font-size: 65px;
