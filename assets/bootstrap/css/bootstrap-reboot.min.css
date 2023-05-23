@@ -198,7 +198,7 @@ box1 h2 {
     transition: .5s;
     text-align: center;
 }
-.box2 p , box1 p{
+.box2 p{
     margin: 0;
     padding: 0;
     margin-top: 20px;
